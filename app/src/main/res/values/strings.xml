@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MikylaRaquinio-Block4-Quiz</string>
+    <string name="select_time_of_appointment">SELECT TIME OF APPOINTMENT</string>
+    <string name="choose_your_schedule">CHOOSE YOUR SCHEDULE</string>
+    <string name="time_label">Select Time</string>
+    <string name="next">Next</string>
 </resources>
